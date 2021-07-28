@@ -1,0 +1,16 @@
+# Python project
+migration.log
+*.pyc
+.cache/*
+*.env
+.idea
+.vscode
+__pycache__/*
+db.sqlite3
+static
+
+# local env files
+.env.local
+.env.*.local
+*.env
+.env
